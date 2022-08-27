@@ -1,0 +1,15 @@
+.head1{
+    color: brown;
+    font-style: unset;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.head2{
+    color: blueviolet;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.img1{
+    width: 400px;
+}
